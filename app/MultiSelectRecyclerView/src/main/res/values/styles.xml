@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme. -->
+    <style name="DarkModeTheme" >
+        <item name="backgroundColor">#2C2C2C</item>
+        <item name="splitterBackgroundColor">#777777</item>
+        <item name="splitterCursorColor">#DDDDDD</item>
+        <item name="titleTextColor">#EEEEEE</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <!-- Light Theme. -->
+    <style name="LightModeTheme">
+        <item name="backgroundColor">#FFFFFF</item>
+        <item name="splitterBackgroundColor">#DDDDDD</item>
+        <item name="splitterCursorColor">#777777</item>
+        <item name="titleTextColor">#333333</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+
+</resources>

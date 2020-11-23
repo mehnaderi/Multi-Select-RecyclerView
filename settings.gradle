@@ -1,0 +1,3 @@
+include ':app:MultiSelectRecyclerView'
+include ':app'
+rootProject.name = "Libraries"

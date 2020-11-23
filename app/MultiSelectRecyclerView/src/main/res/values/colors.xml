@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Colors-->
+    <color name="DarkModeBackground">#2C2C2C</color>
+    <color name="DarkModeSplitterBackground">#777777</color>
+    <color name="DarkModeSplitterCursor">#DDDDDD</color>
+    <color name="DarkModeTitleColor">#EEEEEE</color>
+
+    <!-- Light Mode Colors-->
+    <color name="LightModeBackground">#EFEFEF</color>
+    <color name="LightModeSplitterBackground">#DDDDDD</color>
+    <color name="LightModeSplitterCursor">#777777</color>
+    <color name="LightModeTitleColor">#333333</color>
+
+</resources>

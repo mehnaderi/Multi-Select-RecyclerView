@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="backgroundColor" format="reference|color"/>
+        <attr name="splitterBackgroundColor" format="reference|color"/>
+        <attr name="splitterCursorColor" format="reference|color"/>
+        <attr name="titleTextColor" format="reference|color"/>
+    </declare-styleable>
+</resources>
