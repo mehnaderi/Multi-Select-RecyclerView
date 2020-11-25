@@ -28,7 +28,7 @@ This library is hosted on jitpack.io, which means to use it you will have to add
     }
   ```
 
-And then you will need to add the following dependency to your applications `build.gradle` file.
+And then you will need to add the following dependency to your application `build.gradle` file.
 
 ```gradle
   dependencies {
