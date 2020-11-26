@@ -2,7 +2,7 @@
 # Multi-Select-RecyclerView
 
 
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)]()
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mehnaderi/Multi-Select-RecyclerView/blob/master/LICENSE)
 [![](https://jitpack.io/v/mehnaderi/Multi-Select-RecyclerView.svg)](https://jitpack.io/#mehnaderi/Multi-Select-RecyclerView)
 
 An android Multi-selecting library to choose multiple items in `recyclerView`
