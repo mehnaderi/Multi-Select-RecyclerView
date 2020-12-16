@@ -46,6 +46,7 @@ And then you will need to add the following dependency to your application `buil
 
 ### Todos
 
-[ ] Write Documentation
-[ ] Animations
-[ ] Search & Filter
+- [ ] Write Documentation
+- [ ] Animations
+- [ ] Search & Filter
+- [ ] Complete Readme :)
