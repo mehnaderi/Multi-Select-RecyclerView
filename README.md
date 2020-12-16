@@ -44,7 +44,7 @@ And then you will need to add the following dependency to your application `buil
 
 ...
 
-### Todos
+### TodoList
 
 - [ ] Write Documentation
 - [ ] Animations
