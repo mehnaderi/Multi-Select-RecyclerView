@@ -46,7 +46,6 @@ And then you will need to add the following dependency to your application `buil
 
 ### TodoList
 
-- [ ] Write Documentation
 - [ ] Animations
 - [ ] Search & Filter
 - [ ] Complete Readme :)
